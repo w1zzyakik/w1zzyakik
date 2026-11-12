@@ -10,7 +10,20 @@
 
 ### core skills
 
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="28" title="C++"> <img src="https://cdn.simpleicons.org/sharp/239120" width="28" title="C#"> <img src="https://cdn.simpleicons.org/python/3776AB" width="28" title="Python"> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="28" title="TypeScript"> <img src="https://cdn.simpleicons.org/opengl/5586A4" width="28" title="OpenGL"> <img src="https://cdn.simpleicons.org/blender/E87D0D" width="28" title="Blender"> <img src="https://cdn.simpleicons.org/unity/000000" width="28" title="Unity"> <img src="https://cdn.simpleicons.org/git/F05032" width="28" title="Git">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="28" title="C++">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/sharp/239120" width="28" title="C#">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="28" title="Python">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="28" title="TypeScript">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/opengl/5586A4" width="28" title="OpenGL">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/blender/E87D0D" width="28" title="Blender">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/unity/000000" width="28" title="Unity">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/git/F05032" width="28" title="Git">
+    </td>
+  </tr>
+</table>
 
 - **languages:** C++ · C# · Python · TypeScript
 - **graphics & gamedev:** HLSL · OpenGL · Unity · Win32 overlays
