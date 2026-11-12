@@ -2,7 +2,7 @@
 
 ### about
 
-делаю оверлеи, blender-аддоны и десктоп-приложения. люблю низкий уровень, но пишу быстро :)
+I create overlays, Blender add-ons, and desktop applications. I enjoy working at a low level, but I code quickly :)
 
 [![telegram](https://img.shields.io/badge/telegram-@CSharperq-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/CSharperq)
 
